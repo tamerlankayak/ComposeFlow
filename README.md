@@ -28,3 +28,10 @@ Follow these steps to run the Jetpack Compose LiveData Flow Demo App on your loc
 
    ```bash
    git clone [https://github.com/yourusername/jetpack-compose-livedata-flow-demo.git](https://github.com/tamerlankayak/ComposeFlow.git)https://github.com/tamerlankayak/ComposeFlow.git
+
+1.Open the project in Android Studio.
+
+2.Build and run the app on an Android emulator or physical device.
+
+## Usage
+Upon launching the app, you will encounter a simple interface with three buttons. Each button represents a distinct technique for changing and updating data on the screen using Flow. Observe the effects of Flow in combination with Jetpack Compose, LiveData, and ViewModel to create a responsive and efficient UI.
