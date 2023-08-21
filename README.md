@@ -27,4 +27,4 @@ Follow these steps to run the Jetpack Compose LiveData Flow Demo App on your loc
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/jetpack-compose-livedata-flow-demo.git
+   git clone [https://github.com/yourusername/jetpack-compose-livedata-flow-demo.git](https://github.com/tamerlankayak/ComposeFlow.git)https://github.com/tamerlankayak/ComposeFlow.git
