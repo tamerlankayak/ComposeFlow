@@ -35,3 +35,14 @@ Follow these steps to run the Jetpack Compose LiveData Flow Demo App on your loc
 
 ## Usage
 Upon launching the app, you will encounter a simple interface with three buttons. Each button represents a distinct technique for changing and updating data on the screen using Flow. Observe the effects of Flow in combination with Jetpack Compose, LiveData, and ViewModel to create a responsive and efficient UI.
+
+## Contributing
+Contributions from the community are welcome! To contribute to the Jetpack Compose LiveData Flow Demo App, please follow these guidelines:
+
+1.Fork the repository.
+
+2.Create a feature branch for your contribution.
+
+3.Implement your changes while adhering to best practices.
+
+4.Submit a pull request with a clear description of your changes.
